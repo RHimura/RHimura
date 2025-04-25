@@ -1,10 +1,10 @@
 ## Olá! Me chamo Himura e sou estudante de TI! Seja bem vindo 👋
 
-👨‍💻 Dev em formação | Explorando o mundo do HTML, CSS e JavaScript
-🚀 Aprendendo um passo de cada vez, construindo projetos e ganhando experiência
-📚 Curioso por tecnologia, apaixonado por código limpo e interfaces bem feitas
-🌱 Sempre aberto a aprender mais e colaborar com a comunidade
-🔧 Atualmente focado em: praticar, errar, e evoluir
+- 👨‍💻 Dev em formação | Explorando o mundo do HTML, CSS e JavaScript
+- 🚀 Aprendendo um passo de cada vez, construindo projetos e ganhando experiência
+- 📚 Curioso por tecnologia, apaixonado por código limpo e interfaces bem feitas
+- 🌱 Sempre aberto a aprender mais e colaborar com a comunidade
+- 🔧 Atualmente focado em: praticar, errar, e evoluir
 
 ### 🤖 Linguagens e Tecnologias
 
